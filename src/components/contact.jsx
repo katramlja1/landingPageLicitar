@@ -11,7 +11,7 @@ export class Contact extends Component {
                 <div className="section-title">
                   <h2>Kontaktirajte Nas</h2>
                   <p>
-                    Ukoliko želite poručiti licitare i medene kekse, ili pak imate dodatna pitanja vezana uz iste. Pošaljite nam mail, a mi ćemo se potruditi u što kraćem roku da Vam odgovorimo.
+                    Ukoliko želite poručiti licitare i medene kekse, ili pak imate dodatna pitanja vezana uz iste pošaljite nam mail, a mi ćemo se potruditi u što kraćem roku da odgovorimo.
                   </p>
                 </div>
                 <form name="sentMessage" id="contactForm" noValidate>
