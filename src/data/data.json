@@ -1,0 +1,94 @@
+{
+    "Header": {
+
+        "title": "Licitar",
+        "paragraph": "Darujete srcem, darujte srce."
+
+    },
+    "About": {
+        "paragraph": "Licitar - Srce na dar je mali studio koji već 5 godina postoji na prostoru Bosne i Hercegovine. U samom fokusu studija tako je bila izrada klasičnih i personaliziranih licitarskih srcadi koji predstavljaju jedinstven poklon za posebne trenutke u Vašem životu. Licitare izrađujemo u malim, ali i u velikim količinama, zbog čega su prigodne uspomene za svadbe, godišnjice i druge prigode.",
+        "paragraph2": "S ciljem da proširimo asortiman, u ponudu smo uvrstili i slatka medena rješenja - medene kekse i kutije. Kao i licitare, i medene kekse i kutije je moguće presonalizirati i poručiti u raznim oblicima i s raznim motivima.",
+        "Why": [
+            "Jedinstveni i jestivi pokloni",
+            "Dostupni u raznim dimnezijama, oblicima i s raznim motivima",
+            "Unikatni",
+            "Ukusni"
+        ],
+        "Why2": [
+            "Moguća personalizacija",
+            "Kreativni poklon",
+            "Slatko pakiranje",
+            "Dugotrajni"
+        ]
+    },
+    "Services": [{
+            "icon": "img/services/ringo.png",
+            "name": "Vjenčanja",
+            "text": "Ne znate što da poklonite svojim gostima kao zahvalu na vjenčanju? Budite jedinstveni i poklonite im svoje srce. Crveno srce s Vašim inicijalima i datumom kao podsjetnik za najsretniji dan u životu ili pak medeni keks s posebnim stihom? Vi samo recite, a na nama je da to ostvarimo."
+        },
+        {
+            "icon": "img/services/duda.png",
+            "name": "Krstitke",
+            "text": "Želite se zahvaliti svojim gostima što su s Vama proslavili krstitke Vašeg malog anđela, a ne znate kako? Ili Vam pak trebaju unikatni pokloni za krstitke? Poručite male licitarske anđele ili medena kolica dostupna u raznim dimenzijama i iznenadite roditelje i goste svojom kreativnošću."
+        },
+        {
+            "icon": "img/services/annivarsary.png",
+            "name": "Godišnjice",
+            "text": "Bliži se godišnjica braka ili veze, a ne znate što pokloniti Vašoj boljoj polovici? Ili se pak bliži uspješnih 10 godina poslovanja i želite počastiti svoje zaposlenike i partnere? Poručite licitarsko srce sa zajedničkom slikom ili pak medene kekse s posebnom porukom i gledajte sreću u očima njihovih vlasnika."
+        },
+        {
+            "icon": "img/services/gingerbread.png",
+            "name": "Božični keksi",
+            "text": "Raznovrsni medeni keksi s Božičnim motivima idealan su poklon kada ste ostali bez ideje, a ipak morate nešto pokloniti svojim bližnjima. Ili jednostavno zbog drugih obveza niste stigli spremiti jedinstvene medene kućice, a znate da bi to razveselilo Vaše najmlađe."
+        },
+        {
+            "icon": "img/services/gift.png",
+            "name": "Kutije",
+            "text": "Poručite unikatne medene kutije raznih dimenzija i oblika te u njih smjestite što goda poželite. Medene cvjetove, kekse s posebnim porukama, prstenje i nakit, recite i mi ćemo Vam sve spremiti."
+        },
+        {
+            "icon": "img/services/heart.png",
+            "name": "Razno",
+            "text": "Želite biti kreativni ove godine za Valentinovo, Dan žena ili majčin dan no ne znate što da poklonite? Poručite licitare i medene kekse raznih oblika i motiva i razveselite svoje najbliže unikatnim poklonom. "
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/anita.jpg",
+            "text": "\"Savršeni pokloni za najvažniji dan u Vašim životima - svadbu. Gosti oduševljeni kreativnošću i izgledom, a mi sretni jer će uvijek imati malo srce s podsjetnikom na datum našeg vjenčanja.\"",
+            "name": "Maja"
+        },
+        {
+            "img": "img/testimonials/ivana.jpg",
+            "text": "\"Tražila sam jedinstven poklon koji će se i kumi, ali i malom kumćetu jednom kada odraste sviđati. Licitar sa slikom malog anđela i datumom rođenja bio je pun pogodak!\"",
+            "name": "Ivana"
+        },
+        {
+            "img": "img/testimonials/daria.jpg",
+            "text": "\"Htjeli smo se zahvaliti svim našim prijateljima i gostima što su nam uljepšali naše vjenačanje pa smo im poklonili ukusne male kekse s datumom vjenčanja i našim inicijalima! Gosti su bili oduševljeni jer su taj poklon mogli i pojesti, a ne samo čuvati kao ukras.\"",
+            "name": "Monika"
+        },
+        {
+            "img": "img/testimonials/daria.jpg",
+            "text": "\"Prijateljici se rodila mala princeza pa sam joj htjela pokloniti nešto posebno. Odlučila sam se za licitarsko srce s slikom malog anđela i posebno srce s prikladnim stihom.\"",
+            "name": "Daria"
+        },
+        {
+            "img": "img/testimonials/mirko.jpg",
+            "text": "\"Htjeli smo iznenaditi svoje zaposlenike malo drugačijim polonima ove godine pa smo im poklonili kekse s našim logom. Tople preporuke!\"",
+            "name": "Mirko"
+        },
+        {
+            "img": "img/testimonials/anita.jpg",
+            "text": "\"Majka je slavila 50. rođendan pa sam se odlučila naručiti joj medenu kutiju i u nju ispod keksa sakriti kartu za putovanje. Malo je reći da je bila oduševljena, hvala Vam!\"",
+            "name": "Anita"
+        }
+    ],
+    "Contact": {
+        "address": "Licitar - Srce na Dar, Vitez 72250, Bosna i Hercegovina",
+        "email": "srcenadar.licitar@gmail.com",
+        "facebook": "@srcenadar",
+        "instagram": "@licitar_srcenadar"
+    }
+}
