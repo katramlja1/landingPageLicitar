@@ -85,13 +85,13 @@ export class Contact extends Component {
                   <ul>
                     <li>
                       <a
-                        href={this.props.data ? this.props.data.facebook : "https://www.facebook.com/@srcenadar"}
+                        href="https://www.facebook.com/srcenadar"
                       >
                         <i className="fa fa-facebook"></i>
                       </a>
                     </li>
                     <li>
-                      <a href={this.props.data ? this.props.data.instagram : "https://www.instagram.com/licitar_srcenadar"}>
+                      <a href="https://www.instagram.com/licitar_srcenadar/">
                         <i className="fa fa-instagram"></i>
                       </a>
                     </li>
